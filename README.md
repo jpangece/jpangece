@@ -1,5 +1,4 @@
-### 👋 Hi there 👋
-
+#### MAJOR
 <img src ="https://img.shields.io/badge/Electrical Computer Engineering-80B5E3?style=flat-square&logo=Google Scholar&logoColor=white"/> 
 
 #### SKILLS
@@ -10,6 +9,5 @@
 <img src ="https://img.shields.io/badge/Deep Learning-6D1ED4?style=flat-square&logo=OpenAI&logoColor=white"/>  
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voyager19878"/>
 
 
