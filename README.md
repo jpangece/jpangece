@@ -1,8 +1,15 @@
 ### 👋 Hi there 👋
 
-BS in Electrical Computer Engineering
-University of Michigan-Shanghai JiaoTong Univeristy-Joint Institute
+<img src ="https://img.shields.io/badge/Electrical Computer Engineering-80B5E3?style=flat-square&logo=Google Scholar&logoColor=white"/> 
 
-Exploring C / C++ / Python / Machine-Learning / Deep-Learning
+#### SKILLS
+<div>
+<img src ="https://img.shields.io/badge/Python-FABD14?style=flat-square&logo=Python&logoColor=white"/> 
+<img src ="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src ="https://img.shields.io/badge/Machine Learning-EC6813?style=flat-square&logo=OpenAI&logoColor=white"/>  
+<img src ="https://img.shields.io/badge/Deep Learning-6D1ED4?style=flat-square&logo=OpenAI&logoColor=white"/>  
+</div>
 
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voyager19878"/>
+
+
