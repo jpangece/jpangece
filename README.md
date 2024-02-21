@@ -1,5 +1,9 @@
 #### MAJOR
-<img src ="https://img.shields.io/badge/Electrical Computer Engineering-80B5E3?style=flat-square&logo=Google Scholar&logoColor=white"/> 
+⚙️Electrical Computer Engineer
+
+📈Data Analyst
+
+💻Deep Learning & Machine Learning
 
 #### SKILLS
 <div>
